@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-. build-docs.sh
+. .travis/build-docs.sh
