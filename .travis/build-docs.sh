@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-cp doc/src doc/html
+cp -r doc/src doc/html
